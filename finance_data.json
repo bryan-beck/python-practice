@@ -1,0 +1,18 @@
+{
+    "income": [
+        {
+            "amount": 150.0,
+            "category": "salary",
+            "date": "06-03-2025",
+            "note": ""
+        }
+    ],
+    "expense": [
+        {
+            "amount": 120.0,
+            "category": "electric",
+            "date": "06-03-2025",
+            "note": ""
+        }
+    ]
+}
